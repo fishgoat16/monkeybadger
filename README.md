@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @monkeybadger
-- 👀 I’m interested in ... beans
-- 🌱 I’m currently learning ... stuff
-- 💞️ I’m looking to collaborate on ... things
-- 📫 How to reach me ... yes
+The Void
 
 <!---
 monkeybadger/monkeybadger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
